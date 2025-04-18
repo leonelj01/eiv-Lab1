@@ -2,8 +2,12 @@
 
 Este es el primer archivo de ejemplo para practicar con Git.
 
-Las herramientas de control de versiones son fundamentales en el desarrollo de software.
+Se cambió el contenido del archivo por información sobre compositores de música clásica
 
-Git nos permite colaborar de manera eficiente en proyectos de programación.
+Ludwig van Beethoven fue un compositor alemán considerado uno de los más grandes de la historia.
 
-Con Git podemos hacer seguimiento de los cambios realizados en nuestro código.
+Wolfgang Amadeus Mozart fue un prodigio musical austríaco que compuso más de 600 obras.
+
+Johann Sebastian Bach revolucionó la música barroca con sus complejas composiciones.
+
+Frédéric Chopin, de origen polaco, es reconocido por sus piezas románticas para piano.
