@@ -1,9 +1,11 @@
 # Archivo 1 para práctica de GIT
 
-Este es el primer archivo de ejemplo para practicar con Git.
+Se cambió el contenido del archivo por información sobre las obras de compositores de música clásica
 
-Las herramientas de control de versiones son fundamentales en el desarrollo de software.
+Ludwig van Beethoven compuso obras maestras como la "Novena Sinfonía" con su famoso coro "Oda a la Alegría", la "Sonata Claro de Luna" y la revolucionaria "Quinta Sinfonía".
 
-Git nos permite colaborar de manera eficiente en proyectos de programación.
+Wolfgang Amadeus Mozart creó "La flauta mágica", "Réquiem", "Las bodas de Fígaro" y la "Pequeña serenata nocturna", demostrando su genio en múltiples géneros musicales.
 
-Con Git podemos hacer seguimiento de los cambios realizados en nuestro código.
+Johann Sebastian Bach nos dejó las "Variaciones Goldberg", la "Misa en Si menor", los "Conciertos de Brandeburgo" y el ciclo "El clave bien temperado" que revolucionó la música occidental.
+
+Frédéric Chopin es recordado por sus emotivos "Nocturnos", las virtuosas "Polonesas", sus románticos "Valses" y los técnicamente desafiantes "Estudios" para piano.
